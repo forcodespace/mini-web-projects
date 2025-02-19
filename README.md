@@ -28,4 +28,4 @@ Welcome to my collection of small web projects! This repository includes various
 
 1. Clone this repository to your local machine.
    ```bash
-   git clone https://github.com/subashbaniyaa/mini-web-project.git
+   git clone https://github.com/subashbaniyaa/mini-web-projects.git
