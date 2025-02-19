@@ -7,7 +7,7 @@ Welcome to my collection of small web projects! This repository includes various
 1. **Cider Drinks** [View Project](cider-drinks/index.html)
 
 2. **Funny Jokes**
-   [View Project](subashbaniyaa.github.io/funny-jokes)
+   [View Project](https://subashbaniyaa.github.io/funny-jokes)
 
 4. **Insect Catch Game**
    [View Project](insect-catch-game/index.html)
