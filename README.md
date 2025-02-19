@@ -1,4 +1,4 @@
-# Mini Web Projects
+## Mini Web Projects
 
 Welcome to my collection of small web projects! This repository includes various fun and interactive web apps that you can explore. Each project is housed in its own folder, and you can click on the respective links to see them in action
 
