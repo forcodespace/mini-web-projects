@@ -4,25 +4,25 @@ Welcome to my collection of small web projects! This repository includes various
 
 ## Projects List
 
-1. **Cider Drinks** [View Project](cider-drinks/index.html)
+1. **Cider Drinks** [View Project](https://subashbaniyaa.github.io/mini-web-projects/cider-drinks/index.html)
 
 2. **Funny Jokes**
-   [View Project](https://subashbaniyaa.github.io/funny-jokes)
+   [View Project]((https://subashbaniyaa.github.io/mini-web-projects//funny-jokes)
 
 4. **Insect Catch Game**
-   [View Project](insect-catch-game/index.html)
+   [View Project](https://subashbaniyaa.github.io/mini-web-projects/insect-catch-game/index.html)
 
 5. **Text-to-Speech**
-   [View Project](text-to-speech/index.html)
+   [View Project](https://subashbaniyaa.github.io/mini-web-projects/text-to-speech/index.html)
 
 6. **Music Player**
-   [View Project](music-player/index.html)
+   [View Project](https://subashbaniyaa.github.io/mini-web-projects/music-player/index.html)
 
 7. **Stock Background**
-   [View Project](stock-bg/index.html)
+   [View Project](https://subashbaniyaa.github.io/mini-web-projects/stock-bg/index.html)
 
 8. **Theme Clock**
-   [View Project](theme-clock/index.html)
+   [View Project](https://subashbaniyaa.github.io/mini-web-projects/theme-clock/index.html)
 
 ## How to Use
 
