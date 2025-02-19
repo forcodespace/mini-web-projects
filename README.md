@@ -7,21 +7,21 @@ Welcome to my collection of small web projects! This repository includes various
 1. **Cider Drinks** [View Project](cider-drinks/index.html)
 
 2. **Funny Jokes**
-   [View Project](funny-jokes/index.html)
+   [View Project](subashbaniyaa.github.io/funny-jokes)
 
-3. **Insect Catch Game**
+4. **Insect Catch Game**
    [View Project](insect-catch-game/index.html)
 
-4. **Text-to-Speech**
+5. **Text-to-Speech**
    [View Project](text-to-speech/index.html)
 
-5. **Music Player**
+6. **Music Player**
    [View Project](music-player/index.html)
 
-6. **Stock Background**
+7. **Stock Background**
    [View Project](stock-bg/index.html)
 
-7. **Theme Clock**
+8. **Theme Clock**
    [View Project](theme-clock/index.html)
 
 ## How to Use
